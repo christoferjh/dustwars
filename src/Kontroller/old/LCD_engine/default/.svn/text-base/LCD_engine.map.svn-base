@@ -1,0 +1,1063 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+                              game_missile.o (__udivmodqi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+                              lcd_engine.o (__divmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              main_entry.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                              games.o (__subsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                              games.o (__mulsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                              demo3d.o (__divsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                              games.o (__gtsf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                              games.o (__ltsf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                              games.o (__floatsisf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                              games.o (__fixsfsi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+                              lcd_engine.o (malloc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(itoa.o)
+                              lcd_engine.o (itoa)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o)
+                              demo3d.o (cos)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o) (__fp_rempio2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o) (__fp_sinus)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o) (__fp_splitA)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sin.o)
+                              demo3d.o (sin)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o)
+                              game_missile.o (sqrt)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strrev.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(itoa.o) (strrev)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o) (__addsf3x)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_inf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o) (__fp_mpack)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o) (__fp_nan)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_norm2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o) (__fp_norm2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powsodd.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o) (__fp_powsodd)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_pscA)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_pscB)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o) (__fp_round)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o) (__fp_zero)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powsodd.o) (__fp_powser)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o) (__mulsf3x)
+
+Allocating common symbols
+Common symbol       size              file
+
+TOUCH_READING       0x1               touch.o
+TOUCH_STATE         0x1               main_entry.o
+sys_time            0x2               main_entry.o
+__brkval            0x2               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+private_touch_point
+                    0x5               touch.o
+TC                  0x7               main_entry.o
+__flp               0x2               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+ddd                 0x2               main_entry.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+LOAD main_entry.o
+LOAD lcd_engine.o
+LOAD buttons.o
+LOAD games.o
+LOAD touch.o
+LOAD gui.o
+LOAD game_missile.o
+LOAD demo3d.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x6ec6
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x0000008c       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o)
+ *(.progmem*)
+                0x000000aa                . = ALIGN (0x2)
+                0x000000aa                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000aa        0x0 linker stubs
+ *(.trampolines*)
+                0x000000aa                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000aa                __ctors_start = .
+ *(.ctors)
+                0x000000aa                __ctors_end = .
+                0x000000aa                __dtors_start = .
+ *(.dtors)
+                0x000000aa                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000aa        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+                0x000000aa                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000aa        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000b6       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+                0x000000b6                __do_copy_data
+ .init4         0x000000d0       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x000000d0                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000e0        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000e8        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+                0x000000e8                __vector_22
+                0x000000e8                __vector_28
+                0x000000e8                __vector_1
+                0x000000e8                __vector_32
+                0x000000e8                __vector_34
+                0x000000e8                __vector_12
+                0x000000e8                __bad_interrupt
+                0x000000e8                __vector_6
+                0x000000e8                __vector_31
+                0x000000e8                __vector_3
+                0x000000e8                __vector_23
+                0x000000e8                __vector_30
+                0x000000e8                __vector_25
+                0x000000e8                __vector_11
+                0x000000e8                __vector_13
+                0x000000e8                __vector_17
+                0x000000e8                __vector_19
+                0x000000e8                __vector_7
+                0x000000e8                __vector_27
+                0x000000e8                __vector_5
+                0x000000e8                __vector_33
+                0x000000e8                __vector_4
+                0x000000e8                __vector_9
+                0x000000e8                __vector_2
+                0x000000e8                __vector_21
+                0x000000e8                __vector_15
+                0x000000e8                __vector_29
+                0x000000e8                __vector_8
+                0x000000e8                __vector_26
+                0x000000e8                __vector_14
+                0x000000e8                __vector_10
+                0x000000e8                __vector_16
+                0x000000e8                __vector_20
+ .text          0x000000ec      0xe08 main_entry.o
+                0x000008a4                gui_system_meny
+                0x000002aa                paint
+                0x0000049a                drawStartImage
+                0x0000051e                gui_screen_meny
+                0x00000438                test_buttons
+                0x000000ee                draw_main_meny
+                0x000000ec                flash_finish
+                0x00000a94                gui_games_meny
+                0x00000d80                main
+                0x00000a12                about
+                0x0000067c                gui_touch_meny
+                0x0000025a                draw_cross
+                0x00000132                test_touch
+                0x00000c4c                main_gui_meny
+                0x00000e8a                __vector_18
+                0x000007ac                gui_button_meny
+ .text          0x00000ef4     0x1278 lcd_engine.o
+                0x00001276                LCD_setContrast
+                0x00001be0                v_fillRect
+                0x00001f08                printfStr
+                0x0000128c                LCD_RAM_CLR
+                0x0000202a                rprintfInt
+                0x00001f6c                rprintfStr
+                0x000020ba                printfInt
+                0x000011ea                LCD_drawImageToRam
+                0x00001478                LCD_drawPixel
+                0x00001d98                printHart
+                0x00002118                get_new_ram
+                0x000012f8                LCD_init
+                0x00000fa4                swaap
+                0x00001e3e                printfChar
+                0x00000fbc                pixelSetOrClearOrInvert
+                0x00001c72                h_fillRect
+                0x00001ad6                c_fillRect
+                0x00001326                LCD_setPage
+                0x00000fc6                DisplaySetDispInverted
+                0x00001de2                rprintfChar
+                0x00002112                trash_ram
+                0x000012bc                LCD_CLR
+                0x000018e0                fillCircle
+                0x00001352                pushRAM
+                0x00001612                drawCircle
+                0x00001322                resetConnection
+                0x00000f00                SPI_MasterInit
+                0x00001a42                drawRect
+                0x000017ac                LCD_drawLine
+                0x00000fec                setDubbelbuffer
+                0x00001d04                fillRect
+                0x00001224                redrawRAM
+                0x00000f14                initDOGL128
+                0x00001fac                rprintfStrCenter
+                0x00000f0a                SPI_MasterTransmit
+                0x00000ef4                DOG_MasterInit
+                0x00001334                LCD_setColumn
+                0x00002132                init_lcd
+                0x00001ff2                rprintfBin
+                0x00000ff6                LCD_draw16x16ImageToRam
+                0x00002062                printfBin
+                0x00001f8a                StrLength
+ .text          0x0000216c      0x100 buttons.o
+                0x000021b0                DOWN_isPressed
+                0x000021d0                UP_isPressedAndRel
+                0x0000216c                button_init
+                0x000021c8                UP_isPressed
+                0x000021e0                DOWN_isPressedAndRel
+                0x00002210                A_isPressedAndRel
+                0x000021b8                LEFT_isPressed
+                0x00002198                A_isPressed
+                0x00002190                combo_isPressed
+                0x00002178                only_combo_isPressed
+                0x00002220                B_isPressedAndRel
+                0x00002200                RIGHT_isPressedAndRel
+                0x000021a8                B_isPressed
+                0x000021f0                LEFT_isPressedAndRel
+                0x00002240                any_isPressed
+                0x000021a0                START_isPressed
+                0x00002230                START_isPressedAndRel
+                0x000021c0                RIGHT_isPressed
+ .text          0x0000226c      0xb24 games.o
+                0x000024d4                draw_ball
+                0x000023dc                erase_pad
+                0x0000226c                handle_ball_hit_pad
+                0x0000239e                draw_board
+                0x000025bc                game_ball
+                0x00002452                lost_ball_animation
+                0x000023fe                draw_pad
+ .text          0x00002d90      0x6e4 touch.o
+                0x00003096                start_adc_check
+                0x00002f3e                touch_init_advance
+                0x00002ea6                load_eeprom_touch
+                0x00002fb2                __vector_24
+                0x00002eee                touch_init
+                0x00002f18                set_y_reading
+                0x00002f06                start_reading_with_interrupt
+                0x000030be                eeprom_write
+                0x00003098                get_touch_y
+                0x00002d90                getRawTouch
+                0x00002e70                set_calibration
+                0x000030ce                calibrate_touch
+                0x000030b0                eeprom_read
+                0x0000307e                get_touch_x
+                0x00002dd4                getTouch
+                0x00002f8c                set_x_reading
+ .text          0x00003474      0xe56 gui.o
+                0x0000353e                makeButton
+                0x00003496                addMenyButtons
+                0x00003474                length
+                0x000038de                drawMenyButton
+                0x00003ad4                Buttons_meny_private
+                0x000034fa                insideMenyButton
+                0x000034b6                insideButton
+                0x00003498                addMenyButton
+                0x00003db6                Buttons_meny
+                0x00003560                creatButton
+                0x00004036                gui_meny_demo
+                0x000035cc                drawButton
+ .text          0x000042ca      0xe98 game_missile.o
+                0x000043e2                handle_fire_and_bases
+                0x000043da                time_diff
+                0x000043d4                delete_Missile
+                0x00004984                start_game
+                0x00004320                uppdateMissile
+                0x0000449e                getLevel
+                0x0000481e                clear_missile_fire
+                0x00005028                game_missile
+                0x000046dc                draw_missile_fire
+                0x000043ba                isOnFire
+                0x0000490c                draw_missile
+                0x0000444a                closestBase
+                0x000046a6                send_missile
+                0x00004964                clear_missile
+                0x000042ca                isOnTarget
+                0x000043c4                abs
+                0x000045a0                init_missile
+ .text          0x00005162      0x9b0 demo3d.o
+                0x00005162                calcVertice
+                0x00005452                calcCube
+                0x00005488                RotatePreCalc
+                0x000053f6                setSizeCube
+                0x00005680                start_3dDemo
+                0x000055e4                drawCube
+ .text          0x00005b12        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .text          0x00005b12        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00005b12        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x00005b12        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00005b12      0x354 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                0x00005daa                __subsf3
+                0x00005e0c                __addsf3
+ .text          0x00005e66      0x1f4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                0x00005e66                __mulsf3
+ .text          0x0000605a      0x158 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                0x0000605a                __divsf3
+ .text          0x000061b2       0x60 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                0x000061b2                __gtsf2
+ .text          0x00006212       0x60 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                0x00006212                __ltsf2
+ .text          0x00006272       0xbc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                0x00006272                __floatsisf
+ .text          0x0000632e       0xa8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                0x0000632e                __fixsfsi
+ .text          0x000063d6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .text          0x000063d6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x000063d6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .text          0x000063d6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .text          0x000063d6       0x9e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                0x000063d6                __clzsi2
+ .text          0x00006474      0x1aa c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                0x00006474                __pack_f
+ .text          0x0000661e       0xf0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                0x0000661e                __unpack_f
+ .text          0x0000670e       0xb2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                0x0000670e                __fpcmp_parts_f
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(itoa.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sin.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strrev.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_norm2.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powsodd.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+ .text          0x000067c0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+                0x000067c0                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x000067c0       0x18 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+                0x000067c0                __udivmodqi4
+ .text.libgcc   0x000067d8       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+                0x000067d8                __divmodhi4
+                0x000067d8                _div
+ .text.libgcc   0x000067fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x000067fe        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000067fe       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x000067fe                __udivmodhi4
+ .text.libgcc   0x00006826       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                0x00006826                __prologue_saves__
+ .text.libgcc   0x0000685e       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                0x0000685e                __epilogue_restores__
+ .text.avr-libc
+                0x00006894      0x20a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+                0x00006894                malloc
+                0x000069ee                free
+ .text.avr-libc
+                0x00006a9e       0x42 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(itoa.o)
+                0x00006a9e                itoa
+ .text.avr-libc.fplib
+                0x00006ae0        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o)
+                0x00006ae0                cos
+ .text.avr-libc.fplib
+                0x00006ae6       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o)
+                0x00006ae8                __fp_rempio2
+ .text.avr-libc.fplib
+                0x00006b36       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o)
+                0x00006b36                __fp_sinus
+ .text.avr-libc.fplib
+                0x00006b58       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+                0x00006b58                __fp_split3
+                0x00006b68                __fp_splitA
+ .text.avr-libc.fplib
+                0x00006b9c        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sin.o)
+                0x00006b9c                sin
+ .text.avr-libc.fplib
+                0x00006ba8       0x84 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o)
+                0x00006bb0                sqrt
+ .text.avr-libc
+                0x00006c2c       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strrev.o)
+                0x00006c2c                strrev
+ .text.avr-libc.fplib
+                0x00006c4c       0xc0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+                0x00006c66                __addsf3x
+ .text.avr-libc.fplib
+                0x00006d0c        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+                0x00006d0c                __fp_inf
+ .text.avr-libc.fplib
+                0x00006d18       0x1c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+                0x00006d1c                __fp_mpack_finite
+                0x00006d18                __fp_mpack
+ .text.avr-libc.fplib
+                0x00006d34        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+                0x00006d34                __fp_nan
+ .text.avr-libc.fplib
+                0x00006d3a        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_norm2.o)
+                0x00006d3a                __fp_norm2
+ .text.avr-libc.fplib
+                0x00006d48       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powsodd.o)
+                0x00006d48                __fp_powsodd
+ .text.avr-libc.fplib
+                0x00006d6a        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+                0x00006d6a                __fp_pscA
+ .text.avr-libc.fplib
+                0x00006d78        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+                0x00006d78                __fp_pscB
+ .text.avr-libc.fplib
+                0x00006d86       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+                0x00006d86                __fp_round
+ .text.avr-libc.fplib
+                0x00006da8        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+                0x00006da8                __fp_zero
+                0x00006daa                __fp_szero
+ .text.avr-libc.fplib
+                0x00006db6       0x4a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+                0x00006db6                __fp_powser
+ .text.avr-libc.fplib
+                0x00006e00       0xc2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+                0x00006e18                __mulsf3_pse
+                0x00006e14                __mulsf3x
+                0x00006ec2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00006ec2        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x00006ec2                exit
+                0x00006ec2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00006ec2        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00006ec6                _etext = .
+
+.data           0x00800100      0x964 load address 0x00006ec6
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+ .data          0x00800100      0x54e main_entry.o
+ .data          0x0080064e      0x1e0 lcd_engine.o
+ .data          0x0080082e        0x0 buttons.o
+ .data          0x0080082e       0x4a games.o
+ .data          0x00800878       0x26 touch.o
+ .data          0x0080089e       0x22 gui.o
+ .data          0x008008c0       0x65 game_missile.o
+ .data          0x00800925       0x30 demo3d.o
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .data          0x00800955        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .data          0x00800955        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                0x00800955                __thenan_sf
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .data          0x0080095d        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0080095d      0x100 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x0080095d                __clz_tab
+ .data          0x00800a5d        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+                0x00800a5f                __malloc_heap_start
+                0x00800a61                __malloc_heap_end
+                0x00800a5d                __malloc_margin
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(itoa.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sin.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strrev.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_norm2.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powsodd.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+ .data          0x00800a63        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800a64                . = ALIGN (0x2)
+ *fill*         0x00800a63        0x1 00
+                0x00800a64                _edata = .
+                0x00800a64                PROVIDE (__data_end, .)
+
+.bss            0x00800a64       0x16
+                0x00800a64                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm1284p.o
+ .bss           0x00800a64        0x0 main_entry.o
+ .bss           0x00800a64        0x0 lcd_engine.o
+ .bss           0x00800a64        0x0 buttons.o
+ .bss           0x00800a64        0x0 games.o
+ .bss           0x00800a64        0x0 touch.o
+ .bss           0x00800a64        0x0 gui.o
+ .bss           0x00800a64        0x0 game_missile.o
+ .bss           0x00800a64        0x0 demo3d.o
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(itoa.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(cos.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_rempio2.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_sinus.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_split3.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sin.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(sqrt.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(strrev.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(addsf3x.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_inf.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_mpack.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_nan.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_norm2.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powsodd.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscA.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_pscB.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_round.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_zero.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(fp_powser.o)
+ .bss           0x00800a64        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(mulsf3x.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800a64        0xc main_entry.o
+                0x00800a64                TOUCH_STATE
+                0x00800a65                sys_time
+                0x00800a67                TC
+                0x00800a6e                ddd
+ COMMON         0x00800a70        0x6 touch.o
+                0x00800a70                TOUCH_READING
+                0x00800a71                private_touch_point
+ COMMON         0x00800a76        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a(malloc.o)
+                0x00800a76                __brkval
+                0x00800a78                __flp
+                0x00800a7a                PROVIDE (__bss_end, .)
+                0x00006ec6                __data_load_start = LOADADDR (.data)
+                0x0000782a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800a7a        0x0
+                0x00800a7a                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800a7a                PROVIDE (__noinit_end, .)
+                0x00800a7a                _end = .
+                0x00800a7a                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x260
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main_entry.o
+ .debug_aranges
+                0x00000020       0x20 lcd_engine.o
+ .debug_aranges
+                0x00000040       0x20 buttons.o
+ .debug_aranges
+                0x00000060       0x20 games.o
+ .debug_aranges
+                0x00000080       0x20 touch.o
+ .debug_aranges
+                0x000000a0       0x20 gui.o
+ .debug_aranges
+                0x000000c0       0x20 game_missile.o
+ .debug_aranges
+                0x000000e0       0x20 demo3d.o
+ .debug_aranges
+                0x00000100       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000140       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000160       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000180       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x000001c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000001e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000200       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000220       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000240       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0xc4a
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x145 main_entry.o
+ .debug_pubnames
+                0x00000145      0x2ce lcd_engine.o
+ .debug_pubnames
+                0x00000413      0x189 buttons.o
+ .debug_pubnames
+                0x0000059c       0x88 games.o
+ .debug_pubnames
+                0x00000624      0x186 touch.o
+ .debug_pubnames
+                0x000007aa      0x104 gui.o
+ .debug_pubnames
+                0x000008ae      0x15f game_missile.o
+ .debug_pubnames
+                0x00000a0d       0x8e demo3d.o
+ .debug_pubnames
+                0x00000a9b       0x2c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x00000ac7       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x00000ae6       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x00000b05       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x00000b23       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x00000b41       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00000b63       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000b83       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000ba5       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000bc4       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000be3       0x21 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000c04       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x00000c2a       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x667b
+ *(.debug_info)
+ .debug_info    0x00000000      0x71d main_entry.o
+ .debug_info    0x0000071d     0x13df lcd_engine.o
+ .debug_info    0x00001afc      0x25d buttons.o
+ .debug_info    0x00001d59      0x641 games.o
+ .debug_info    0x0000239a      0x5dc touch.o
+ .debug_info    0x00002976      0xaef gui.o
+ .debug_info    0x00003465      0xbbc game_missile.o
+ .debug_info    0x00004021      0x57e demo3d.o
+ .debug_info    0x0000459f      0x47a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_info    0x00004a19      0x485 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_info    0x00004e9e      0x3fc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_info    0x0000529a      0x27f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_info    0x00005519      0x27f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_info    0x00005798      0x207 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_info    0x0000599f      0x2b0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_info    0x00005c4f      0x12c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00005d7b      0x117 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_info    0x00005e92      0x2df c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_info    0x00006171      0x251 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_info    0x000063c2      0x210 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x000065d2       0xa9 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x238b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1d2 main_entry.o
+ .debug_abbrev  0x000001d2      0x375 lcd_engine.o
+ .debug_abbrev  0x00000547       0xbe buttons.o
+ .debug_abbrev  0x00000605      0x219 games.o
+ .debug_abbrev  0x0000081e      0x2d8 touch.o
+ .debug_abbrev  0x00000af6      0x2c0 gui.o
+ .debug_abbrev  0x00000db6      0x299 game_missile.o
+ .debug_abbrev  0x0000104f      0x17c demo3d.o
+ .debug_abbrev  0x000011cb      0x1ea c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x000013b5      0x21b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x000015d0      0x216 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x000017e6      0x15a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00001940      0x15a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00001a9a      0x148 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00001be2      0x17f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00001d61       0xad c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00001e0e       0xc4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00001ed2      0x1c0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00002092      0x154 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000021e6      0x13b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00002321       0x6a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x4faf
+ *(.debug_line)
+ .debug_line    0x00000000      0xa9e main_entry.o
+ .debug_line    0x00000a9e      0xebe lcd_engine.o
+ .debug_line    0x0000195c      0x250 buttons.o
+ .debug_line    0x00001bac      0x61b games.o
+ .debug_line    0x000021c7      0x683 touch.o
+ .debug_line    0x0000284a      0x8a6 gui.o
+ .debug_line    0x000030f0      0xabb game_missile.o
+ .debug_line    0x00003bab      0x3a6 demo3d.o
+ .debug_line    0x00003f51      0x2af c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00004200      0x239 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_line    0x00004439      0x1d5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_line    0x0000460e       0xd3 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_line    0x000046e1       0xd3 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_line    0x000047b4      0x135 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_line    0x000048e9      0x109 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_line    0x000049f2       0x90 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00004a82       0xa5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_line    0x00004b27      0x18a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_line    0x00004cb1      0x14b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00004dfc      0x137 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x00004f33       0x7c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0xa60
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x110 main_entry.o
+ .debug_frame   0x00000110      0x2b0 lcd_engine.o
+ .debug_frame   0x000003c0      0x130 buttons.o
+ .debug_frame   0x000004f0       0x80 games.o
+ .debug_frame   0x00000570      0x110 touch.o
+ .debug_frame   0x00000680       0xd0 gui.o
+ .debug_frame   0x00000750      0x120 game_missile.o
+ .debug_frame   0x00000870       0x70 demo3d.o
+ .debug_frame   0x000008e0       0x40 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000920       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000940       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_frame   0x00000960       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000980       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000009a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x000009c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000009e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000a00       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000a20       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000a40       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0xeb9
+ *(.debug_str)
+ .debug_str     0x00000000      0x268 main_entry.o
+                                0x2ac (size before relaxing)
+ .debug_str     0x00000268      0x2b9 lcd_engine.o
+                                0x419 (size before relaxing)
+ .debug_str     0x00000521      0x132 buttons.o
+                                0x220 (size before relaxing)
+ .debug_str     0x00000653       0xb1 games.o
+                                0x222 (size before relaxing)
+ .debug_str     0x00000704      0x144 touch.o
+                                0x2b1 (size before relaxing)
+ .debug_str     0x00000848       0xfb gui.o
+                                0x284 (size before relaxing)
+ .debug_str     0x00000943      0x1f5 game_missile.o
+                                0x3c7 (size before relaxing)
+ .debug_str     0x00000b38       0xe7 demo3d.o
+                                0x21b (size before relaxing)
+ .debug_str     0x00000c1f      0x17f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                                0x207 (size before relaxing)
+ .debug_str     0x00000d9e       0x27 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                                0x1c0 (size before relaxing)
+ .debug_str     0x00000dc5       0x35 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                                0x1c9 (size before relaxing)
+ .debug_str     0x00000dfa        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000e02        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000e0a       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x00000e28        0xa c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                                0x19f (size before relaxing)
+ .debug_str     0x00000000      0x104 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000e32       0x5c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                                0x112 (size before relaxing)
+ .debug_str     0x00000e8e       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000e9e        0xb c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                                0x180 (size before relaxing)
+ .debug_str     0x00000ea9       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                                0x164 (size before relaxing)
+ .debug_str     0x00000000       0xf5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000     0x3c1f
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x3f7 main_entry.o
+ .debug_loc     0x000003f7     0x111a lcd_engine.o
+ .debug_loc     0x00001511       0x36 buttons.o
+ .debug_loc     0x00001547      0x2cd games.o
+ .debug_loc     0x00001814      0x28e touch.o
+ .debug_loc     0x00001aa2      0xabd gui.o
+ .debug_loc     0x0000255f      0xb3a game_missile.o
+ .debug_loc     0x00003099      0x228 demo3d.o
+ .debug_loc     0x000032c1      0x32a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x000035eb      0x104 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_loc     0x000036ef       0xc0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_loc     0x000037af       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_loc     0x000037eb       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00003827       0xac c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x000038d3       0x7e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00003951       0x94 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_loc     0x000039e5      0x13e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00003b23       0xac c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00003bcf       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(LCD_engine.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x240
+ .debug_ranges  0x00000000       0x30 main_entry.o
+ .debug_ranges  0x00000030      0x118 lcd_engine.o
+ .debug_ranges  0x00000148       0x48 games.o
+ .debug_ranges  0x00000190       0x30 gui.o
+ .debug_ranges  0x000001c0       0x30 game_missile.o
+ .debug_ranges  0x000001f0       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)

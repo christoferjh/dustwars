@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/DustWars/Kontroller/firstblood/default/dep
+END
+zigbeeny.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/DustWars/Kontroller/firstblood/default/dep/zigbeeny.o.d
+END
+game_missile.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/DustWars/Kontroller/firstblood/default/dep/game_missile.o.d
+END
+buttons.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/DustWars/Kontroller/firstblood/default/dep/buttons.o.d
+END
+touch.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/DustWars/Kontroller/firstblood/default/dep/touch.o.d
+END
+ball_game.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/DustWars/Kontroller/firstblood/default/dep/ball_game.o.d
+END
+gui.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/firstblood/default/dep/gui.o.d
+END
+lcd_engine.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/DustWars/Kontroller/firstblood/default/dep/lcd_engine.o.d
+END
+zigdust.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/DustWars/Kontroller/firstblood/default/dep/zigdust.o.d
+END
+accelerometer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/trunk/DustWars/Kontroller/firstblood/default/dep/accelerometer.o.d
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep
+END
+game_missile.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/game_missile.o.d
+END
+buttons.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/buttons.o.d
+END
+touch.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/touch.o.d
+END
+gui.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/gui.o.d
+END
+main_entry.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/main_entry.o.d
+END
+lcd_engine.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/lcd_engine.o.d
+END
+demo3d.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/demo3d.o.d
+END
+games.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/dep/games.o.d
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default
+END
+LCD_engine.hex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/LCD_engine.hex
+END
+LCD_engine.elf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/LCD_engine.elf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/Makefile
+END
+LCD_engine.eep
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/LCD_engine.eep
+END
+LCD_engine.map
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/LCD_engine.map
+END
+LCD_engine.lss
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/DustWars/Kontroller/old/LCD_engine/default/LCD_engine.lss
+END

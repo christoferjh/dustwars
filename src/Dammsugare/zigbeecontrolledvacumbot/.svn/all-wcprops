@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/28/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot
+END
+ultraljud.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/22/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/ultraljud.h
+END
+zigbeecontrolledvacumbot.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/26/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/zigbeecontrolledvacumbot.c
+END
+zigbeeny.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/zigbeeny.c
+END
+zigbeecontrolledvacumbot.aps
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/22/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/zigbeecontrolledvacumbot.aps
+END
+drivning.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/28/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/drivning.c
+END
+CAN_sender.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/28/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/CAN_sender.c
+END
+dustwarsIDs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/28/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/dustwarsIDs.h
+END
+zigbeeny.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/22/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/zigbeeny.h
+END
+zigbeecontrolledvacumbot.aws
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/25/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/zigbeecontrolledvacumbot.aws
+END
+drivning.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/25/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/drivning.h
+END
+ultraljud.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/ultraljud.c
+END
+CAN_sender.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/26/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/CAN_sender.h
+END
+CAN_macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/26/trunk/DustWars/Dammsugare/zigbeecontrolledvacumbot/CAN_macro.h
+END

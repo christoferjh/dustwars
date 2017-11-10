@@ -1,0 +1,17 @@
+demo3d.o: ../demo3d.c ../demo3d.h ../lcd_engine.h ../touch.h ../gui.h \
+  ../macros.h ../buttons.h \
+  c:/winavr-20100110/lib/gcc/../../avr/include/math.h
+
+../demo3d.h:
+
+../lcd_engine.h:
+
+../touch.h:
+
+../gui.h:
+
+../macros.h:
+
+../buttons.h:
+
+c:/winavr-20100110/lib/gcc/../../avr/include/math.h:
